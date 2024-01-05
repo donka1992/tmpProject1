@@ -1,0 +1,8 @@
+version: 2
+sources:
+  - name: marts_source
+    database: EXERCISE_DB
+    schema: SCHEMA_PROD
+    tables:
+      - name: names
+        description: some table

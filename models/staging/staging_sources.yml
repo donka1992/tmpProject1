@@ -1,0 +1,8 @@
+version: 2
+sources:
+  - name: staging_source
+    database: EXERCISE_DB
+    schema: SCHEMA_DEV
+    tables:
+      - name: names
+        description: some table
