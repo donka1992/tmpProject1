@@ -1,0 +1,5 @@
+[sqlfluff:rules:aliasing.table]
+aliasing = explicit
+
+[sqlfluff:indentation]
+tab_space_size = 4
