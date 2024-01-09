@@ -1,2 +1,2 @@
 select *
-from INFORMATION_SCHEMA.tables
+from INFORMATION_SCHEMA.TABLES
